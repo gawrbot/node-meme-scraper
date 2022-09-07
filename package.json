@@ -44,7 +44,6 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "fetch-blob": "^3.2.0",
     "node-fetch": "^3.2.10"
   }
 }

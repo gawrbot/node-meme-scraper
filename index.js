@@ -1,6 +1,4 @@
-import fs from 'node:fs/promises';
 import { load } from 'cheerio';
-import Blob from 'fetch-blob';
 import fetch from 'node-fetch';
 
 const response = await fetch(
